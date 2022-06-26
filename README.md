@@ -2,7 +2,7 @@
 Deep Learning based Graph embedding for nodes clustering
 Project for the Machine Learning in Network Science class at CentraleSupélec.
 
-[VAE graph clustering.](graph-clustering.png "IWAE graph clustering")
+![VAE graph clustering.](graph-clustering.png "IWAE graph clustering")
 
 ## Structure of the repository
 
