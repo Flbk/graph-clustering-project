@@ -1,8 +1,11 @@
-# mlns-project
+# Graph clustering
 Deep Learning based Graph embedding for nodes clustering
 Project for the Machine Learning in Network Science class at CentraleSupélec.
 
 ## Structure of the repository
+
+### Project report
+The project report is in the file `project_report.pdf`.
 
 ### Non-deep algorithms
 Non-deep algorithms including:
