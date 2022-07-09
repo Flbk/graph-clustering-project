@@ -14,6 +14,7 @@ Non-deep algorithms including:
 - KMeans
 - Spectral Clustering
 - RMSC
+
 are in the file `clustering.py`, with rather clean names.
 Can be launched with Python CLI to get the visualization results (can be a bit long).
 
